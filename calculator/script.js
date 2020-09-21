@@ -1,2 +1,2 @@
-document.write("Hello world");
+document.write("Hello world<br>");
 document.write('<input type = "text" >');
